@@ -12,7 +12,6 @@
 - 👨‍💻 All of my projects are available at [geekombe.github.io](geekombe.github.io)
 
 - 💬 Ask me about **React, Js, Flask, Python, Firebase, Node JS**
-
 - 📫 How to reach me **victorgekombe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
