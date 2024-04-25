@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekombe&label=Profile%20views&color=0e75b6&style=flat" alt="geekombe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/geekombe" target="blank"><img src="https://img.shields.io/twitter/follow/geekombe?logo=twitter&style=for-the-badge" alt="geekombe" /></a> </p>
 - 🔭 I’m currently working on **Text Humanizer**
 
 - 🌱 I’m currently learning **Flask Framework**
