@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
    <title>geekombe.io</title>
 </head>
@@ -13,3 +15,4 @@
       }
     </style>
 </body>
+</html>
